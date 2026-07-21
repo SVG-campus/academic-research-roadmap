@@ -10,30 +10,30 @@
 ## 🏛️ Executive Summary
 
 This repository contains the complete, rigorous strategic master plan for navigating higher education (Undergraduate, Master's, PhD) and post-doctoral research career trajectories. It optimizes for:
-1. **Financial Aid Maximization**: Leveraging $0 prior income history to secure **100% full-tuition need-based financial aid** (Syracuse University).
-2. **Top 5 Degree Rankings**: Evaluating Syracuse vs. Columbia GS vs. NYU Gallatin vs. Stanford for maximum speed, prestige, and venture alignment.
-3. **Prerequisite Execution**: Costs, timelines, and strategies for online math courses (UND / UIUC NetMath at ~$432/cr) vs. taking Calc I & Linear Algebra on campus for free.
-4. **Business Transition Benchmarks**: Setting exact profit targets ($8,000 - $12,000/mo) to safely resign from Bloom Energy and New York Life.
+1. **Financial Aid & Self-Funding**: Leveraging $0 prior income history (100% need-based aid at Syracuse) OR self-funding via AetherQuant trading profits (+8% to +10%/day gains).
+2. **Top 5 Degree Rankings**: Evaluating Syracuse vs. Columbia GS vs. NYU Gallatin vs. Stanford under both Financial Need and Unconstrained Wealth scenarios.
+3. **Science Lab & Math Prerequisites**: Accredited Science Lab options (UNE Online, Portage Learning, Syracuse on-campus for $0) and UND/NetMath online math courses.
+4. **Timing Decision Matrix**: 60-Day Capital Scaling Sprint strategy vs. immediate re-enrollment vs. waiting for profits.
 5. **Terminal Endpoint Selection**: Establishing an independent **Private Research Institute & Venture Studio** backed by a **Visiting/Adjunct Research Professorship**.
 
 ---
 
 ## 📁 Repository Map
 
-- **[`undergraduate-strategy.md`](./undergraduate-strategy.md)**: **Top 5 Degree & Institution Rankings**, Syracuse Re-entry vs. Columbia GS vs. NYU Gallatin, credit caps, and internal major transfer hacks.
-- **[`financial-aid-and-timelines.md`](./financial-aid-and-timelines.md)**: Financial aid comparison, UND/NetMath course pricing, application deadlines, and business transition monthly profit benchmarks.
-- **[`math-science-prerequisites.md`](./math-science-prerequisites.md)**: Accelerated accredited online roadmap for Calculus, Linear Algebra, Differential Equations, and Physics with Lab (UND, UIUC NetMath, SUNY).
-- **[`graduate-phd-roadmap.md`](./graduate-phd-roadmap.md)**: Targeting MS & PhD programs in Computational Topology, Applied Math, and Financial Engineering (Stanford ICME, NYU Courant, CMU, Oxford) and leveraging Prof. Gunnar Carlsson's research backing.
+- **[`undergraduate-strategy.md`](./undergraduate-strategy.md)**: **Top 5 Degree & Institution Rankings** (Financial Need vs. Unconstrained Wealth scenarios), credit caps, and major transfer hacks.
+- **[`timing-decision-matrix.md`](./timing-decision-matrix.md)**: Comparative timing strategy: Re-enroll this year vs. 60-Day Capital Scaling Sprint vs. waiting for profits.
+- **[`math-science-prerequisites.md`](./math-science-prerequisites.md)**: Accredited Science Lab providers (UNE Online, Portage, Syracuse $0 on-campus) & online math courses (UND / UIUC NetMath).
+- **[`financial-aid-and-timelines.md`](./financial-aid-and-timelines.md)**: Financial aid policies, application deadlines, and business transition monthly profit benchmarks ($8k-$12k/mo).
+- **[`graduate-phd-roadmap.md`](./graduate-phd-roadmap.md)**: Top 1 & 2 Master's, PhD, and Post-Doc programs (Stanford ICME/PhD, NYU Courant, Oxford Centre for TDA, IAS Princeton).
 - **[`terminal-career-decision-tree.md`](./terminal-career-decision-tree.md)**: Decision matrix comparing Tenured Chair/Emeritus Professor vs. Private Research Institute Director & Serial Venture Founder.
-- **[`methodology-publication-plan.md`](./methodology-publication-plan.md)**: Strategy for formalizing and publishing Topological-Quantum-Cognitive Causal Synthesism papers in peer-reviewed journals (JMLR, SIAM Applied Math, Quantitative Finance).
-- **[`scripts/gpa_credit_calculator.py`](./scripts/gpa_credit_calculator.py)**: Python utility to model credit transfers, GPA recovery (restoring Syracuse GPA to 3.85), and degree completion timelines.
+- **[`methodology-publication-plan.md`](./methodology-publication-plan.md)**: Strategy for formalizing and publishing Topological-Quantum-Cognitive Causal Synthesism papers in peer-reviewed journals.
+- **[`scripts/gpa_credit_calculator.py`](./scripts/gpa_credit_calculator.py)**: Python utility to model credit transfers and GPA recovery (restoring Syracuse GPA to 3.85).
 
 ---
 
 ## 🚀 Quick Action Checklist
 
-1. [ ] Submit Syracuse University Re-entry Intent Form (Secures active status & 100% financial aid).
-2. [ ] File FAFSA & CSS Profile listing Syracuse University to capture $0 income full-tuition grants.
-3. [ ] Sustain AetherQuant trading profits / consulting to hit **$8,000 - $12,000 / month net profit**.
+1. [ ] Focus 100% on AetherQuant trading algorithm scaling for the next 60 days (+8% to +10%/day momentum).
+2. [ ] Submit Syracuse Intent to Return Form by October 2026 ($0 cost, locks in spot for Spring 2027).
+3. [ ] Evaluate 60-Day Decision Gate ($10k/mo net profit = self-funded founder; under $8k/mo = 100% need-based aid).
 4. [ ] Draft first joint paper on MERA-KMPA persistent homology with Prof. Gunnar Carlsson.
-5. [ ] Resign from Bloom Energy & NY Life once business profit benchmark is sustained for 2 months.
