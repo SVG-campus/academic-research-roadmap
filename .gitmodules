@@ -1,0 +1,3 @@
+[submodule "mera-kmpa-swarm-framework"]
+	path = mera-kmpa-swarm-framework
+	url = https://github.com/SVG-campus/mera-kmpa-swarm-framework.git
